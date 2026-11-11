@@ -37,7 +37,7 @@ jobs:
         env:
           CMD: ${{ github.event.inputs.command || 'all' }}
           EXTRA: ${{ github.event.inputs.extra }}
-        run: python fuel.py "$CMD" $EXTRA
+        run: python probe_el.py
 
       - name: Збереження результатів у репозиторій
         if: always() && (github.event.inputs.command || 'all') != 'probe'
