@@ -37,7 +37,7 @@ SUMMARY_URL = "https://prozorro.gov.ua/api/tenders/{}/summary"
 TENDER_URL = "https://public-api.prozorro.gov.ua/api/2.5/tenders/{}"
 CONTRACT_URL = "https://public-api.prozorro.gov.ua/api/2.5/contracts/{}"
 PUBLIC_TENDER = "https://prozorro.gov.ua/tender/{}"
-SEARCH_CAP = 10000          # пошук віддає не більше 10 000 результатів на запит
+SEARCH_CAP = 1000           # пошук віддає не більше 1000 результатів на запит (перевірено probe)
 HEX_RE = re.compile(r"^[0-9a-f]{32}$")
 FINAL_STATUSES = {"complete", "cancelled", "unsuccessful"}
 
@@ -197,7 +197,7 @@ def search_page(base, start, end, page):
 
 
 def search_window(base, start, end, sink, stats, label):
-    """Збирає всі результати за вікно дат; якщо їх >= 10 000 — ділить вікно навпіл."""
+    """Збирає всі результати за вікно дат; якщо їх >= ліміту (1000) — ділить вікно навпіл."""
     first = search_page(base, start, end, 1)
     total = int(first.get("total") or 0)
     s, e = dt.date.fromisoformat(start), dt.date.fromisoformat(end)
