@@ -1,0 +1,1333 @@
+[
+ {
+  "run": "2026-11-11T19:47:01+00:00",
+  "windows": [
+   {
+    "query": "cpv",
+    "start": "2025-01-01",
+    "end": "2025-01-08",
+    "total": 667,
+    "fetched": 667
+   },
+   {
+    "query": "cpv",
+    "start": "2025-01-09",
+    "end": "2025-01-16",
+    "total": 956,
+    "fetched": 956
+   },
+   {
+    "query": "cpv",
+    "start": "2025-01-17",
+    "end": "2025-01-24",
+    "total": 873,
+    "fetched": 873
+   },
+   {
+    "query": "cpv",
+    "start": "2025-01-25",
+    "end": "2025-01-31",
+    "total": 709,
+    "fetched": 709
+   },
+   {
+    "query": "text:пальне",
+    "start": "2025-01-01",
+    "end": "2025-01-31",
+    "total": 57,
+    "fetched": 57
+   },
+   {
+    "query": "text:талони на пальне",
+    "start": "2025-01-01",
+    "end": "2025-01-31",
+    "total": 19,
+    "fetched": 19
+   },
+   {
+    "query": "text:скретч-картки",
+    "start": "2025-01-01",
+    "end": "2025-01-31",
+    "total": 55,
+    "fetched": 55
+   },
+   {
+    "query": "cpv",
+    "start": "2025-02-01",
+    "end": "2025-02-07",
+    "total": 817,
+    "fetched": 817
+   },
+   {
+    "query": "cpv",
+    "start": "2025-02-08",
+    "end": "2025-02-14",
+    "total": 661,
+    "fetched": 661
+   },
+   {
+    "query": "cpv",
+    "start": "2025-02-15",
+    "end": "2025-02-21",
+    "total": 593,
+    "fetched": 593
+   },
+   {
+    "query": "cpv",
+    "start": "2025-02-22",
+    "end": "2025-02-28",
+    "total": 515,
+    "fetched": 515
+   },
+   {
+    "query": "text:пальне",
+    "start": "2025-02-01",
+    "end": "2025-02-28",
+    "total": 48,
+    "fetched": 48
+   },
+   {
+    "query": "text:талони на пальне",
+    "start": "2025-02-01",
+    "end": "2025-02-28",
+    "total": 18,
+    "fetched": 18
+   },
+   {
+    "query": "text:скретч-картки",
+    "start": "2025-02-01",
+    "end": "2025-02-28",
+    "total": 55,
+    "fetched": 55
+   },
+   {
+    "query": "cpv",
+    "start": "2025-03-01",
+    "end": "2025-03-08",
+    "total": 593,
+    "fetched": 593
+   },
+   {
+    "query": "cpv",
+    "start": "2025-03-09",
+    "end": "2025-03-16",
+    "total": 555,
+    "fetched": 555
+   },
+   {
+    "query": "cpv",
+    "start": "2025-03-17",
+    "end": "2025-03-24",
+    "total": 632,
+    "fetched": 632
+   },
+   {
+    "query": "cpv",
+    "start": "2025-03-25",
+    "end": "2025-03-31",
+    "total": 479,
+    "fetched": 479
+   },
+   {
+    "query": "text:пальне",
+    "start": "2025-03-01",
+    "end": "2025-03-31",
+    "total": 71,
+    "fetched": 71
+   },
+   {
+    "query": "text:талони на пальне",
+    "start": "2025-03-01",
+    "end": "2025-03-31",
+    "total": 23,
+    "fetched": 23
+   },
+   {
+    "query": "text:скретч-картки",
+    "start": "2025-03-01",
+    "end": "2025-03-31",
+    "total": 54,
+    "fetched": 54
+   },
+   {
+    "query": "cpv",
+    "start": "2025-04-01",
+    "end": "2025-04-08",
+    "total": 648,
+    "fetched": 648
+   },
+   {
+    "query": "cpv",
+    "start": "2025-04-09",
+    "end": "2025-04-15",
+    "total": 457,
+    "fetched": 457
+   },
+   {
+    "query": "cpv",
+    "start": "2025-04-16",
+    "end": "2025-04-30",
+    "total": 944,
+    "fetched": 944
+   },
+   {
+    "query": "text:пальне",
+    "start": "2025-04-01",
+    "end": "2025-04-30",
+    "total": 52,
+    "fetched": 52
+   },
+   {
+    "query": "text:талони на пальне",
+    "start": "2025-04-01",
+    "end": "2025-04-30",
+    "total": 18,
+    "fetched": 18
+   },
+   {
+    "query": "text:скретч-картки",
+    "start": "2025-04-01",
+    "end": "2025-04-30",
+    "total": 44,
+    "fetched": 44
+   },
+   {
+    "query": "cpv",
+    "start": "2025-05-01",
+    "end": "2025-05-08",
+    "total": 667,
+    "fetched": 667
+   },
+   {
+    "query": "cpv",
+    "start": "2025-05-09",
+    "end": "2025-05-16",
+    "total": 516,
+    "fetched": 516
+   },
+   {
+    "query": "cpv",
+    "start": "2025-05-17",
+    "end": "2025-05-31",
+    "total": 847,
+    "fetched": 847
+   },
+   {
+    "query": "text:пальне",
+    "start": "2025-05-01",
+    "end": "2025-05-31",
+    "total": 50,
+    "fetched": 50
+   },
+   {
+    "query": "text:талони на пальне",
+    "start": "2025-05-01",
+    "end": "2025-05-31",
+    "total": 19,
+    "fetched": 19
+   },
+   {
+    "query": "text:скретч-картки",
+    "start": "2025-05-01",
+    "end": "2025-05-31",
+    "total": 44,
+    "fetched": 44
+   },
+   {
+    "query": "cpv",
+    "start": "2025-06-01",
+    "end": "2025-06-15",
+    "total": 904,
+    "fetched": 904
+   },
+   {
+    "query": "cpv",
+    "start": "2025-06-16",
+    "end": "2025-06-23",
+    "total": 605,
+    "fetched": 605
+   },
+   {
+    "query": "cpv",
+    "start": "2025-06-24",
+    "end": "2025-06-30",
+    "total": 423,
+    "fetched": 423
+   },
+   {
+    "query": "text:пальне",
+    "start": "2025-06-01",
+    "end": "2025-06-30",
+    "total": 61,
+    "fetched": 61
+   },
+   {
+    "query": "text:талони на пальне",
+    "start": "2025-06-01",
+    "end": "2025-06-30",
+    "total": 18,
+    "fetched": 18
+   },
+   {
+    "query": "text:скретч-картки",
+    "start": "2025-06-01",
+    "end": "2025-06-30",
+    "total": 33,
+    "fetched": 33
+   },
+   {
+    "query": "cpv",
+    "start": "2025-07-01",
+    "end": "2025-07-08",
+    "total": 606,
+    "fetched": 606
+   },
+   {
+    "query": "cpv",
+    "start": "2025-07-09",
+    "end": "2025-07-16",
+    "total": 477,
+    "fetched": 477
+   },
+   {
+    "query": "cpv",
+    "start": "2025-07-17",
+    "end": "2025-07-31",
+    "total": 958,
+    "fetched": 958
+   },
+   {
+    "query": "text:пальне",
+    "start": "2025-07-01",
+    "end": "2025-07-31",
+    "total": 47,
+    "fetched": 47
+   },
+   {
+    "query": "text:талони на пальне",
+    "start": "2025-07-01",
+    "end": "2025-07-31",
+    "total": 15,
+    "fetched": 15
+   },
+   {
+    "query": "text:скретч-картки",
+    "start": "2025-07-01",
+    "end": "2025-07-31",
+    "total": 46,
+    "fetched": 46
+   },
+   {
+    "query": "cpv",
+    "start": "2025-08-01",
+    "end": "2025-08-16",
+    "total": 948,
+    "fetched": 948
+   },
+   {
+    "query": "cpv",
+    "start": "2025-08-17",
+    "end": "2025-08-31",
+    "total": 918,
+    "fetched": 918
+   },
+   {
+    "query": "text:пальне",
+    "start": "2025-08-01",
+    "end": "2025-08-31",
+    "total": 36,
+    "fetched": 36
+   },
+   {
+    "query": "text:талони на пальне",
+    "start": "2025-08-01",
+    "end": "2025-08-31",
+    "total": 13,
+    "fetched": 13
+   },
+   {
+    "query": "text:скретч-картки",
+    "start": "2025-08-01",
+    "end": "2025-08-31",
+    "total": 37,
+    "fetched": 37
+   },
+   {
+    "query": "cpv",
+    "start": "2025-09-01",
+    "end": "2025-09-08",
+    "total": 651,
+    "fetched": 651
+   },
+   {
+    "query": "cpv",
+    "start": "2025-09-09",
+    "end": "2025-09-15",
+    "total": 564,
+    "fetched": 564
+   },
+   {
+    "query": "cpv",
+    "start": "2025-09-16",
+    "end": "2025-09-23",
+    "total": 679,
+    "fetched": 679
+   },
+   {
+    "query": "cpv",
+    "start": "2025-09-24",
+    "end": "2025-09-30",
+    "total": 563,
+    "fetched": 563
+   },
+   {
+    "query": "text:пальне",
+    "start": "2025-09-01",
+    "end": "2025-09-30",
+    "total": 65,
+    "fetched": 65
+   },
+   {
+    "query": "text:талони на пальне",
+    "start": "2025-09-01",
+    "end": "2025-09-30",
+    "total": 22,
+    "fetched": 22
+   },
+   {
+    "query": "text:скретч-картки",
+    "start": "2025-09-01",
+    "end": "2025-09-30",
+    "total": 44,
+    "fetched": 44
+   },
+   {
+    "query": "cpv",
+    "start": "2025-10-01",
+    "end": "2025-10-08",
+    "total": 789,
+    "fetched": 789
+   },
+   {
+    "query": "cpv",
+    "start": "2025-10-09",
+    "end": "2025-10-16",
+    "total": 858,
+    "fetched": 858
+   },
+   {
+    "query": "cpv",
+    "start": "2025-10-17",
+    "end": "2025-10-24",
+    "total": 829,
+    "fetched": 829
+   },
+   {
+    "query": "cpv",
+    "start": "2025-10-25",
+    "end": "2025-10-31",
+    "total": 665,
+    "fetched": 665
+   },
+   {
+    "query": "text:пальне",
+    "start": "2025-10-01",
+    "end": "2025-10-31",
+    "total": 60,
+    "fetched": 60
+   },
+   {
+    "query": "text:талони на пальне",
+    "start": "2025-10-01",
+    "end": "2025-10-31",
+    "total": 16,
+    "fetched": 16
+   },
+   {
+    "query": "text:скретч-картки",
+    "start": "2025-10-01",
+    "end": "2025-10-31",
+    "total": 51,
+    "fetched": 51
+   },
+   {
+    "query": "cpv",
+    "start": "2025-11-01",
+    "end": "2025-11-08",
+    "total": 698,
+    "fetched": 698
+   },
+   {
+    "query": "cpv",
+    "start": "2025-11-09",
+    "end": "2025-11-15",
+    "total": 950,
+    "fetched": 950
+   },
+   {
+    "query": "cpv",
+    "start": "2025-11-16",
+    "end": "2025-11-19",
+    "total": 654,
+    "fetched": 654
+   },
+   {
+    "query": "cpv",
+    "start": "2025-11-20",
+    "end": "2025-11-23",
+    "total": 421,
+    "fetched": 421
+   },
+   {
+    "query": "cpv",
+    "start": "2025-11-24",
+    "end": "2025-11-27",
+    "total": 862,
+    "fetched": 862
+   },
+   {
+    "query": "cpv",
+    "start": "2025-11-28",
+    "end": "2025-11-30",
+    "total": 189,
+    "fetched": 189
+   },
+   {
+    "query": "text:пальне",
+    "start": "2025-11-01",
+    "end": "2025-11-30",
+    "total": 95,
+    "fetched": 95
+   },
+   {
+    "query": "text:талони на пальне",
+    "start": "2025-11-01",
+    "end": "2025-11-30",
+    "total": 33,
+    "fetched": 33
+   },
+   {
+    "query": "text:скретч-картки",
+    "start": "2025-11-01",
+    "end": "2025-11-30",
+    "total": 68,
+    "fetched": 68
+   },
+   {
+    "query": "cpv",
+    "start": "2025-12-01",
+    "end": "2025-12-04",
+    "total": 933,
+    "fetched": 933
+   },
+   {
+    "query": "cpv",
+    "start": "2025-12-05",
+    "end": "2025-12-08",
+    "total": 483,
+    "fetched": 483
+   },
+   {
+    "query": "cpv",
+    "start": "2025-12-09",
+    "end": "2025-12-12",
+    "total": 949,
+    "fetched": 949
+   },
+   {
+    "query": "cpv",
+    "start": "2025-12-13",
+    "end": "2025-12-16",
+    "total": 454,
+    "fetched": 454
+   },
+   {
+    "query": "cpv",
+    "start": "2025-12-17",
+    "end": "2025-12-24",
+    "total": 862,
+    "fetched": 862
+   },
+   {
+    "query": "cpv",
+    "start": "2025-12-25",
+    "end": "2025-12-31",
+    "total": 315,
+    "fetched": 315
+   },
+   {
+    "query": "text:пальне",
+    "start": "2025-12-01",
+    "end": "2025-12-31",
+    "total": 76,
+    "fetched": 76
+   },
+   {
+    "query": "text:талони на пальне",
+    "start": "2025-12-01",
+    "end": "2025-12-31",
+    "total": 27,
+    "fetched": 27
+   },
+   {
+    "query": "text:скретч-картки",
+    "start": "2025-12-01",
+    "end": "2025-12-31",
+    "total": 70,
+    "fetched": 70
+   },
+   {
+    "query": "cpv",
+    "start": "2026-01-01",
+    "end": "2026-01-08",
+    "total": 813,
+    "fetched": 813
+   },
+   {
+    "query": "cpv",
+    "start": "2026-01-09",
+    "end": "2026-01-12",
+    "total": 410,
+    "fetched": 410
+   },
+   {
+    "query": "cpv",
+    "start": "2026-01-13",
+    "end": "2026-01-16",
+    "total": 999,
+    "fetched": 999
+   },
+   {
+    "query": "cpv",
+    "start": "2026-01-17",
+    "end": "2026-01-20",
+    "total": 632,
+    "fetched": 632
+   },
+   {
+    "query": "cpv",
+    "start": "2026-01-21",
+    "end": "2026-01-24",
+    "total": 898,
+    "fetched": 898
+   },
+   {
+    "query": "cpv",
+    "start": "2026-01-25",
+    "end": "2026-01-28",
+    "total": 676,
+    "fetched": 676
+   },
+   {
+    "query": "cpv",
+    "start": "2026-01-29",
+    "end": "2026-01-31",
+    "total": 379,
+    "fetched": 379
+   },
+   {
+    "query": "text:пальне",
+    "start": "2026-01-01",
+    "end": "2026-01-31",
+    "total": 81,
+    "fetched": 81
+   },
+   {
+    "query": "text:талони на пальне",
+    "start": "2026-01-01",
+    "end": "2026-01-31",
+    "total": 34,
+    "fetched": 34
+   },
+   {
+    "query": "text:скретч-картки",
+    "start": "2026-01-01",
+    "end": "2026-01-31",
+    "total": 57,
+    "fetched": 57
+   },
+   {
+    "query": "cpv",
+    "start": "2026-02-01",
+    "end": "2026-02-04",
+    "total": 662,
+    "fetched": 662
+   },
+   {
+    "query": "cpv",
+    "start": "2026-02-05",
+    "end": "2026-02-07",
+    "total": 411,
+    "fetched": 411
+   },
+   {
+    "query": "cpv",
+    "start": "2026-02-08",
+    "end": "2026-02-11",
+    "total": 740,
+    "fetched": 740
+   },
+   {
+    "query": "cpv",
+    "start": "2026-02-12",
+    "end": "2026-02-14",
+    "total": 349,
+    "fetched": 349
+   },
+   {
+    "query": "cpv",
+    "start": "2026-02-15",
+    "end": "2026-02-21",
+    "total": 795,
+    "fetched": 795
+   },
+   {
+    "query": "cpv",
+    "start": "2026-02-22",
+    "end": "2026-02-28",
+    "total": 674,
+    "fetched": 674
+   },
+   {
+    "query": "text:пальне",
+    "start": "2026-02-01",
+    "end": "2026-02-28",
+    "total": 61,
+    "fetched": 61
+   },
+   {
+    "query": "text:талони на пальне",
+    "start": "2026-02-01",
+    "end": "2026-02-28",
+    "total": 30,
+    "fetched": 30
+   },
+   {
+    "query": "text:скретч-картки",
+    "start": "2026-02-01",
+    "end": "2026-02-28",
+    "total": 47,
+    "fetched": 47
+   },
+   {
+    "query": "cpv",
+    "start": "2026-03-01",
+    "end": "2026-03-08",
+    "total": 954,
+    "fetched": 954
+   },
+   {
+    "query": "cpv",
+    "start": "2026-03-09",
+    "end": "2026-03-10",
+    "total": 546,
+    "fetched": 546
+   },
+   {
+    "query": "cpv",
+    "start": "2026-03-11",
+    "end": "2026-03-12",
+    "total": 517,
+    "fetched": 517
+   },
+   {
+    "query": "cpv",
+    "start": "2026-03-13",
+    "end": "2026-03-16",
+    "total": 617,
+    "fetched": 617
+   },
+   {
+    "query": "cpv",
+    "start": "2026-03-17",
+    "end": "2026-03-18",
+    "total": 615,
+    "fetched": 615
+   },
+   {
+    "query": "cpv",
+    "start": "2026-03-19",
+    "end": "2026-03-20",
+    "total": 563,
+    "fetched": 563
+   },
+   {
+    "query": "cpv",
+    "start": "2026-03-21",
+    "end": "2026-03-24",
+    "total": 920,
+    "fetched": 920
+   },
+   {
+    "query": "cpv",
+    "start": "2026-03-25",
+    "end": "2026-03-28",
+    "total": 880,
+    "fetched": 880
+   },
+   {
+    "query": "cpv",
+    "start": "2026-03-29",
+    "end": "2026-03-31",
+    "total": 614,
+    "fetched": 614
+   },
+   {
+    "query": "text:пальне",
+    "start": "2026-03-01",
+    "end": "2026-03-31",
+    "total": 95,
+    "fetched": 95
+   },
+   {
+    "query": "text:талони на пальне",
+    "start": "2026-03-01",
+    "end": "2026-03-31",
+    "total": 38,
+    "fetched": 38
+   },
+   {
+    "query": "text:скретч-картки",
+    "start": "2026-03-01",
+    "end": "2026-03-31",
+    "total": 53,
+    "fetched": 53
+   },
+   {
+    "query": "cpv",
+    "start": "2026-04-01",
+    "end": "2026-04-04",
+    "total": 881,
+    "fetched": 881
+   },
+   {
+    "query": "cpv",
+    "start": "2026-04-05",
+    "end": "2026-04-06",
+    "total": 372,
+    "fetched": 372
+   },
+   {
+    "query": "cpv",
+    "start": "2026-04-07",
+    "end": "2026-04-08",
+    "total": 743,
+    "fetched": 743
+   },
+   {
+    "query": "cpv",
+    "start": "2026-04-09",
+    "end": "2026-04-12",
+    "total": 473,
+    "fetched": 473
+   },
+   {
+    "query": "cpv",
+    "start": "2026-04-13",
+    "end": "2026-04-15",
+    "total": 794,
+    "fetched": 794
+   },
+   {
+    "query": "cpv",
+    "start": "2026-04-16",
+    "end": "2026-04-19",
+    "total": 443,
+    "fetched": 443
+   },
+   {
+    "query": "cpv",
+    "start": "2026-04-20",
+    "end": "2026-04-23",
+    "total": 853,
+    "fetched": 853
+   },
+   {
+    "query": "cpv",
+    "start": "2026-04-24",
+    "end": "2026-04-27",
+    "total": 435,
+    "fetched": 435
+   },
+   {
+    "query": "cpv",
+    "start": "2026-04-28",
+    "end": "2026-04-30",
+    "total": 641,
+    "fetched": 641
+   },
+   {
+    "query": "text:пальне",
+    "start": "2026-04-01",
+    "end": "2026-04-30",
+    "total": 94,
+    "fetched": 94
+   },
+   {
+    "query": "text:талони на пальне",
+    "start": "2026-04-01",
+    "end": "2026-04-30",
+    "total": 41,
+    "fetched": 41
+   },
+   {
+    "query": "text:скретч-картки",
+    "start": "2026-04-01",
+    "end": "2026-04-30",
+    "total": 73,
+    "fetched": 73
+   },
+   {
+    "query": "cpv",
+    "start": "2026-05-01",
+    "end": "2026-05-04",
+    "total": 386,
+    "fetched": 386
+   },
+   {
+    "query": "cpv",
+    "start": "2026-05-05",
+    "end": "2026-05-08",
+    "total": 969,
+    "fetched": 969
+   },
+   {
+    "query": "cpv",
+    "start": "2026-05-09",
+    "end": "2026-05-12",
+    "total": 468,
+    "fetched": 468
+   },
+   {
+    "query": "cpv",
+    "start": "2026-05-13",
+    "end": "2026-05-16",
+    "total": 539,
+    "fetched": 539
+   },
+   {
+    "query": "cpv",
+    "start": "2026-05-17",
+    "end": "2026-05-24",
+    "total": 935,
+    "fetched": 935
+   },
+   {
+    "query": "cpv",
+    "start": "2026-05-25",
+    "end": "2026-05-31",
+    "total": 856,
+    "fetched": 856
+   },
+   {
+    "query": "text:пальне",
+    "start": "2026-05-01",
+    "end": "2026-05-31",
+    "total": 66,
+    "fetched": 66
+   },
+   {
+    "query": "text:талони на пальне",
+    "start": "2026-05-01",
+    "end": "2026-05-31",
+    "total": 24,
+    "fetched": 24
+   },
+   {
+    "query": "text:скретч-картки",
+    "start": "2026-05-01",
+    "end": "2026-05-31",
+    "total": 49,
+    "fetched": 49
+   },
+   {
+    "query": "cpv",
+    "start": "2026-06-01",
+    "end": "2026-06-04",
+    "total": 831,
+    "fetched": 831
+   },
+   {
+    "query": "cpv",
+    "start": "2026-06-05",
+    "end": "2026-06-08",
+    "total": 320,
+    "fetched": 320
+   },
+   {
+    "query": "cpv",
+    "start": "2026-06-09",
+    "end": "2026-06-15",
+    "total": 859,
+    "fetched": 859
+   },
+   {
+    "query": "cpv",
+    "start": "2026-06-16",
+    "end": "2026-06-23",
+    "total": 957,
+    "fetched": 957
+   },
+   {
+    "query": "cpv",
+    "start": "2026-06-24",
+    "end": "2026-06-30",
+    "total": 809,
+    "fetched": 809
+   },
+   {
+    "query": "text:пальне",
+    "start": "2026-06-01",
+    "end": "2026-06-30",
+    "total": 82,
+    "fetched": 82
+   },
+   {
+    "query": "text:талони на пальне",
+    "start": "2026-06-01",
+    "end": "2026-06-30",
+    "total": 32,
+    "fetched": 32
+   },
+   {
+    "query": "text:скретч-картки",
+    "start": "2026-06-01",
+    "end": "2026-06-30",
+    "total": 38,
+    "fetched": 38
+   },
+   {
+    "query": "cpv",
+    "start": "2026-07-01",
+    "end": "2026-07-08",
+    "total": 868,
+    "fetched": 868
+   },
+   {
+    "query": "cpv",
+    "start": "2026-07-09",
+    "end": "2026-07-16",
+    "total": 990,
+    "fetched": 990
+   },
+   {
+    "query": "cpv",
+    "start": "2026-07-17",
+    "end": "2026-07-20",
+    "total": 318,
+    "fetched": 318
+   },
+   {
+    "query": "cpv",
+    "start": "2026-07-21",
+    "end": "2026-07-24",
+    "total": 930,
+    "fetched": 930
+   },
+   {
+    "query": "cpv",
+    "start": "2026-07-25",
+    "end": "2026-07-28",
+    "total": 669,
+    "fetched": 669
+   },
+   {
+    "query": "cpv",
+    "start": "2026-07-29",
+    "end": "2026-07-31",
+    "total": 664,
+    "fetched": 664
+   },
+   {
+    "query": "text:пальне",
+    "start": "2026-07-01",
+    "end": "2026-07-31",
+    "total": 92,
+    "fetched": 92
+   },
+   {
+    "query": "text:талони на пальне",
+    "start": "2026-07-01",
+    "end": "2026-07-31",
+    "total": 31,
+    "fetched": 31
+   },
+   {
+    "query": "text:скретч-картки",
+    "start": "2026-07-01",
+    "end": "2026-07-31",
+    "total": 41,
+    "fetched": 41
+   },
+   {
+    "query": "cpv",
+    "start": "2026-08-01",
+    "end": "2026-08-04",
+    "total": 571,
+    "fetched": 571
+   },
+   {
+    "query": "cpv",
+    "start": "2026-08-05",
+    "end": "2026-08-08",
+    "total": 651,
+    "fetched": 651
+   },
+   {
+    "query": "cpv",
+    "start": "2026-08-09",
+    "end": "2026-08-12",
+    "total": 768,
+    "fetched": 768
+   },
+   {
+    "query": "cpv",
+    "start": "2026-08-13",
+    "end": "2026-08-16",
+    "total": 360,
+    "fetched": 360
+   },
+   {
+    "query": "cpv",
+    "start": "2026-08-17",
+    "end": "2026-08-20",
+    "total": 833,
+    "fetched": 833
+   },
+   {
+    "query": "cpv",
+    "start": "2026-08-21",
+    "end": "2026-08-24",
+    "total": 357,
+    "fetched": 357
+   },
+   {
+    "query": "cpv",
+    "start": "2026-08-25",
+    "end": "2026-08-31",
+    "total": 939,
+    "fetched": 939
+   },
+   {
+    "query": "text:пальне",
+    "start": "2026-08-01",
+    "end": "2026-08-31",
+    "total": 95,
+    "fetched": 95
+   },
+   {
+    "query": "text:талони на пальне",
+    "start": "2026-08-01",
+    "end": "2026-08-31",
+    "total": 26,
+    "fetched": 26
+   },
+   {
+    "query": "text:скретч-картки",
+    "start": "2026-08-01",
+    "end": "2026-08-31",
+    "total": 60,
+    "fetched": 60
+   },
+   {
+    "query": "cpv",
+    "start": "2026-09-01",
+    "end": "2026-09-04",
+    "total": 822,
+    "fetched": 822
+   },
+   {
+    "query": "cpv",
+    "start": "2026-09-05",
+    "end": "2026-09-08",
+    "total": 485,
+    "fetched": 485
+   },
+   {
+    "query": "cpv",
+    "start": "2026-09-09",
+    "end": "2026-09-12",
+    "total": 650,
+    "fetched": 650
+   },
+   {
+    "query": "cpv",
+    "start": "2026-09-13",
+    "end": "2026-09-15",
+    "total": 614,
+    "fetched": 614
+   },
+   {
+    "query": "cpv",
+    "start": "2026-09-16",
+    "end": "2026-09-19",
+    "total": 802,
+    "fetched": 802
+   },
+   {
+    "query": "cpv",
+    "start": "2026-09-20",
+    "end": "2026-09-23",
+    "total": 903,
+    "fetched": 903
+   },
+   {
+    "query": "cpv",
+    "start": "2026-09-24",
+    "end": "2026-09-27",
+    "total": 461,
+    "fetched": 461
+   },
+   {
+    "query": "cpv",
+    "start": "2026-09-28",
+    "end": "2026-09-30",
+    "total": 705,
+    "fetched": 705
+   },
+   {
+    "query": "text:пальне",
+    "start": "2026-09-01",
+    "end": "2026-09-30",
+    "total": 121,
+    "fetched": 121
+   },
+   {
+    "query": "text:талони на пальне",
+    "start": "2026-09-01",
+    "end": "2026-09-30",
+    "total": 39,
+    "fetched": 39
+   },
+   {
+    "query": "text:скретч-картки",
+    "start": "2026-09-01",
+    "end": "2026-09-30",
+    "total": 48,
+    "fetched": 48
+   },
+   {
+    "query": "cpv",
+    "start": "2026-10-01",
+    "end": "2026-10-04",
+    "total": 411,
+    "fetched": 411
+   },
+   {
+    "query": "cpv",
+    "start": "2026-10-05",
+    "end": "2026-10-08",
+    "total": 997,
+    "fetched": 997
+   },
+   {
+    "query": "cpv",
+    "start": "2026-10-09",
+    "end": "2026-10-12",
+    "total": 501,
+    "fetched": 501
+   },
+   {
+    "query": "cpv",
+    "start": "2026-10-13",
+    "end": "2026-10-16",
+    "total": 964,
+    "fetched": 964
+   },
+   {
+    "query": "cpv",
+    "start": "2026-10-17",
+    "end": "2026-10-20",
+    "total": 655,
+    "fetched": 655
+   },
+   {
+    "query": "cpv",
+    "start": "2026-10-21",
+    "end": "2026-10-24",
+    "total": 871,
+    "fetched": 871
+   },
+   {
+    "query": "cpv",
+    "start": "2026-10-25",
+    "end": "2026-10-28",
+    "total": 901,
+    "fetched": 901
+   },
+   {
+    "query": "cpv",
+    "start": "2026-10-29",
+    "end": "2026-10-31",
+    "total": 466,
+    "fetched": 466
+   },
+   {
+    "query": "text:пальне",
+    "start": "2026-10-01",
+    "end": "2026-10-31",
+    "total": 114,
+    "fetched": 114
+   },
+   {
+    "query": "text:талони на пальне",
+    "start": "2026-10-01",
+    "end": "2026-10-31",
+    "total": 31,
+    "fetched": 31
+   },
+   {
+    "query": "text:скретч-картки",
+    "start": "2026-10-01",
+    "end": "2026-10-31",
+    "total": 69,
+    "fetched": 69
+   },
+   {
+    "query": "cpv",
+    "start": "2026-11-01",
+    "end": "2026-11-03",
+    "total": 628,
+    "fetched": 628
+   },
+   {
+    "query": "cpv",
+    "start": "2026-11-04",
+    "end": "2026-11-06",
+    "total": 912,
+    "fetched": 912
+   },
+   {
+    "query": "cpv",
+    "start": "2026-11-07",
+    "end": "2026-11-11",
+    "total": 943,
+    "fetched": 943
+   },
+   {
+    "query": "text:пальне",
+    "start": "2026-11-01",
+    "end": "2026-11-11",
+    "total": 60,
+    "fetched": 60
+   },
+   {
+    "query": "text:талони на пальне",
+    "start": "2026-11-01",
+    "end": "2026-11-11",
+    "total": 23,
+    "fetched": 23
+   },
+   {
+    "query": "text:скретч-картки",
+    "start": "2026-11-01",
+    "end": "2026-11-11",
+    "total": 26,
+    "fetched": 26
+   }
+  ],
+  "truncated": [],
+  "seen": 85604,
+  "kept": 5145
+ }
+]
