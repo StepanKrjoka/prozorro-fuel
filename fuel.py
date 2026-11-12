@@ -128,6 +128,7 @@ def load_config():
         g["_inc"] = [re.compile(p, re.I) for p in g.get("patterns", [])]
         g["_exc"] = [re.compile(p, re.I) for p in g.get("exclude", [])]
     cfg["_kw"] = [k.lower() for k in cfg.get("fuel_keywords", [])]
+    cfg["_item_exc"] = [re.compile(p, re.I) for p in cfg.get("item_exclude", [])]
     return cfg
 
 
@@ -159,14 +160,18 @@ def classify(cfg, name, kind=None, edrpou=None, overrides=None):
 
 
 def is_fuel_item(cfg, item):
+    """Позиція — пальне, якщо її CPV належить до кодів пального і опис не вказує на інший товар (оливу тощо).
+    Ключові слова в описі використовуються лише для позицій без CPV або із «заглушкою» 99999999-9:
+    інакше в вибірку потрапляють насоси, цистерни, фільтри, повірка і зберігання «для пального»."""
     cpv = ((item.get("classification") or {}).get("id") or "")
-    if any(cpv.startswith(p) for p in cfg["cpv_fuel_prefixes"]):
-        return True
-    for a in item.get("additionalClassifications") or []:
-        if any((a.get("id") or "").startswith(p) for p in cfg["cpv_fuel_prefixes"]):
-            return True
+    codes = [cpv] + [(a.get("id") or "") for a in item.get("additionalClassifications") or []]
     d = (item.get("description") or "").lower()
-    return any(k in d for k in cfg["_kw"])
+    if any(c.startswith(p) for c in codes for p in cfg["cpv_fuel_prefixes"]):
+        return not any(p.search(d) for p in cfg["_item_exc"])
+    if cpv and not cpv.startswith("99999999"):
+        return False
+    equipment = re.search(r"насос|цистерн|резервуар|фільтр|каністр|повірк|блокпост|обладнан|рукав|лічильник", d)
+    return any(k in d for k in cfg["_kw"]) and not equipment and not any(p.search(d) for p in cfg["_item_exc"])
 
 
 def edr(org):
