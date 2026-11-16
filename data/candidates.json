@@ -50519,7 +50519,8 @@
   "tenderID": "UA-2026-10-27-010812-a",
   "found_by": [
    "cpv",
-   "text:талони на пальне"
+   "text:талони на пальне",
+   "text:пальне"
   ],
   "buyer": "Головне управління справами Міністерства оборони України",
   "buyer_edrpou": null,
@@ -52612,5 +52613,427 @@
   "kind": null,
   "dateModified": null,
   "id": "c6a05273f7dc4ced94d08f0cde8e2ac2"
+ },
+ "UA-2026-11-12-017662-a": {
+  "tenderID": "UA-2026-11-12-017662-a",
+  "found_by": [
+   "cpv"
+  ],
+  "buyer": "Національна академія Служби безпеки України",
+  "buyer_edrpou": null,
+  "kind": null,
+  "dateModified": null,
+  "id": "61ab410292e94f08b2049fb5c20738d1"
+ },
+ "UA-2026-11-12-017068-a": {
+  "tenderID": "UA-2026-11-12-017068-a",
+  "found_by": [
+   "cpv"
+  ],
+  "buyer": "Головне управління Національної поліції в Харківській області",
+  "buyer_edrpou": null,
+  "kind": null,
+  "dateModified": null,
+  "id": "12634214f5634742a0f760987604e3f3"
+ },
+ "UA-2026-11-12-017056-a": {
+  "tenderID": "UA-2026-11-12-017056-a",
+  "found_by": [
+   "cpv"
+  ],
+  "buyer": "Головне управління Служби безпеки України у м. Києві та Київській області",
+  "buyer_edrpou": null,
+  "kind": null,
+  "dateModified": null,
+  "id": "ce21a331412a46a3991201bf12b9e644"
+ },
+ "UA-2026-11-12-017048-a": {
+  "tenderID": "UA-2026-11-12-017048-a",
+  "found_by": [
+   "cpv"
+  ],
+  "buyer": "Військова частина 1551",
+  "buyer_edrpou": null,
+  "kind": null,
+  "dateModified": null,
+  "id": "28a11df755ae48a2a6a5cee9d790c0ef"
+ },
+ "UA-2026-11-12-017014-a": {
+  "tenderID": "UA-2026-11-12-017014-a",
+  "found_by": [
+   "cpv"
+  ],
+  "buyer": "Головне управління Національної поліції в Харківській області",
+  "buyer_edrpou": null,
+  "kind": null,
+  "dateModified": null,
+  "id": "ad79bf74c8bf4402b43f4cb7c343b7b8"
+ },
+ "UA-2026-11-12-016913-a": {
+  "tenderID": "UA-2026-11-12-016913-a",
+  "found_by": [
+   "cpv"
+  ],
+  "buyer": "Головне управління Національної поліції в Харківській області",
+  "buyer_edrpou": null,
+  "kind": null,
+  "dateModified": null,
+  "id": "6f21d5432c6d47d68bd6492d0fab2f82"
+ },
+ "UA-2026-11-12-016604-a": {
+  "tenderID": "UA-2026-11-12-016604-a",
+  "found_by": [
+   "cpv"
+  ],
+  "buyer": "Головне управління ДСНС України у Київській області",
+  "buyer_edrpou": null,
+  "kind": null,
+  "dateModified": null,
+  "id": "7e6b9548f7364484960c832d7cd3b5b9"
+ },
+ "UA-2026-11-12-015714-a": {
+  "tenderID": "UA-2026-11-12-015714-a",
+  "found_by": [
+   "cpv"
+  ],
+  "buyer": "Головне управління Національної поліції в Харківській області",
+  "buyer_edrpou": null,
+  "kind": null,
+  "dateModified": null,
+  "id": "18066a33969c4ed5a9d1db253f457c31"
+ },
+ "UA-2026-11-12-015362-a": {
+  "tenderID": "UA-2026-11-12-015362-a",
+  "found_by": [
+   "cpv"
+  ],
+  "buyer": "Головне управління Національної поліції в Харківській області",
+  "buyer_edrpou": null,
+  "kind": null,
+  "dateModified": null,
+  "id": "73c74ab9f671435a863d83fa71c95bef"
+ },
+ "UA-2026-11-12-014565-a": {
+  "tenderID": "UA-2026-11-12-014565-a",
+  "found_by": [
+   "cpv"
+  ],
+  "buyer": "3 ДЕРЖАВНИЙ ПОЖЕЖНО-РЯТУВАЛЬНИЙ ЗАГІН ГОЛОВНОГО УПРАВЛІННЯ ДЕРЖАВНОЇ СЛУЖБИ УКРАЇНИ З НАДЗВИЧАЙНИХ СИТУАЦІЙ У ДНІПРОПЕТРОВСЬКІЙ ОБЛАСТІ",
+  "buyer_edrpou": null,
+  "kind": null,
+  "dateModified": null,
+  "id": "844c26d926ed4faea0df44c46a509149"
+ },
+ "UA-2026-11-12-013598-a": {
+  "tenderID": "UA-2026-11-12-013598-a",
+  "found_by": [
+   "cpv"
+  ],
+  "buyer": "Управління поліції охорони в Полтавській області",
+  "buyer_edrpou": null,
+  "kind": null,
+  "dateModified": null,
+  "id": "8bc6d589ab07470ba817d2658b2b365b"
+ },
+ "UA-2026-11-12-011379-a": {
+  "tenderID": "UA-2026-11-12-011379-a",
+  "found_by": [
+   "cpv"
+  ],
+  "buyer": "УПРАВЛІННЯ СЛУЖБИ БЕЗПЕКИ УКРАЇНИ У ХМЕЛЬНИЦЬКІЙ ОБЛАСТІ",
+  "buyer_edrpou": null,
+  "kind": null,
+  "dateModified": null,
+  "id": "9b3d71d73d104834bb95aa39a39c33ab"
+ },
+ "UA-2026-11-12-005622-a": {
+  "tenderID": "UA-2026-11-12-005622-a",
+  "found_by": [
+   "cpv"
+  ],
+  "buyer": "3 державний пожежно-рятувальний загін Головного управління Державної служби України з надзвичайних ситуацій у Рівненській області",
+  "buyer_edrpou": null,
+  "kind": null,
+  "dateModified": null,
+  "id": "bf54a6e722c04433808271ea6293ab6a"
+ },
+ "UA-2026-11-12-005450-a": {
+  "tenderID": "UA-2026-11-12-005450-a",
+  "found_by": [
+   "cpv"
+  ],
+  "buyer": "УПРАВЛІННЯ СЛУЖБИ БЕЗПЕКИ УКРАЇНИ В РІВНЕНСЬКІЙ ОБЛАСТІ ",
+  "buyer_edrpou": null,
+  "kind": null,
+  "dateModified": null,
+  "id": "fa0b4b71fc434195b2f9351ff4120961"
+ },
+ "UA-2026-11-12-001323-a": {
+  "tenderID": "UA-2026-11-12-001323-a",
+  "found_by": [
+   "cpv"
+  ],
+  "buyer": "3 державний пожежно-рятувальний загін Головного управління Державної служби України з надзвичайних ситуацій у Рівненській області",
+  "buyer_edrpou": null,
+  "kind": null,
+  "dateModified": null,
+  "id": "37c556a9a4c742859a3eccbada43d904"
+ },
+ "UA-2026-11-12-000627-a": {
+  "tenderID": "UA-2026-11-12-000627-a",
+  "found_by": [
+   "cpv"
+  ],
+  "buyer": "військова частина А4239",
+  "buyer_edrpou": null,
+  "kind": null,
+  "dateModified": null,
+  "id": "4ba2374518084b2ca96df15013ba0edc"
+ },
+ "UA-2026-11-15-000121-a": {
+  "tenderID": "UA-2026-11-15-000121-a",
+  "found_by": [
+   "cpv",
+   "text:пальне",
+   "text:талони на пальне"
+  ],
+  "buyer": "ВІЙСЬКОВА ЧАСТИНА 3043 НАЦІОНАЛЬНОЇ ГВАРДІЇ УКРАЇНИ",
+  "buyer_edrpou": null,
+  "kind": null,
+  "dateModified": null,
+  "id": "f627889090b947e4ac73b55f0b6be44e"
+ },
+ "UA-2026-11-14-000541-a": {
+  "tenderID": "UA-2026-11-14-000541-a",
+  "found_by": [
+   "cpv"
+  ],
+  "buyer": "військова частина А5063",
+  "buyer_edrpou": null,
+  "kind": null,
+  "dateModified": null,
+  "id": "58ea61269e7a4681ade11a792672b8fb"
+ },
+ "UA-2026-11-14-000129-a": {
+  "tenderID": "UA-2026-11-14-000129-a",
+  "found_by": [
+   "cpv"
+  ],
+  "buyer": "ВІЙСЬКОВА ЧАСТИНА 2382",
+  "buyer_edrpou": null,
+  "kind": null,
+  "dateModified": null,
+  "id": "6fd7f77384484ee194235befed378e57"
+ },
+ "UA-2026-11-13-013342-a": {
+  "tenderID": "UA-2026-11-13-013342-a",
+  "found_by": [
+   "cpv"
+  ],
+  "buyer": "ВОЄНІЗОВАНИЙ ГІРНИЧОРЯТУВАЛЬНИЙ   (АВАРІЙНО-РЯТУВАЛЬНИЙ) ЗАГІН ГОЛОВНОГО УПРАВЛІННЯ ДЕРЖАВНОЇ СЛУЖБИ УКРАЇНИ З НАДЗВИЧАЙНИХ СИТУАЦІЙ В ІВАНО-ФРАНКІВСЬКІЙ ОБЛАСТІ",
+  "buyer_edrpou": null,
+  "kind": null,
+  "dateModified": null,
+  "id": "35571118d7df455fb47f37b9fb26fda1"
+ },
+ "UA-2026-11-13-013074-a": {
+  "tenderID": "UA-2026-11-13-013074-a",
+  "found_by": [
+   "cpv",
+   "text:пальне",
+   "text:талони на пальне"
+  ],
+  "buyer": "ГОЛОВНЕ УПРАВЛІННЯ НАЦІОНАЛЬНОЇ ГВАРДІЇ УКРАЇНИ",
+  "buyer_edrpou": null,
+  "kind": null,
+  "dateModified": null,
+  "id": "6adfa3b93ae14edcbef5d089921b963b"
+ },
+ "UA-2026-11-13-011413-a": {
+  "tenderID": "UA-2026-11-13-011413-a",
+  "found_by": [
+   "cpv"
+  ],
+  "buyer": "Головне управління Національної поліції в Сумській області",
+  "buyer_edrpou": null,
+  "kind": null,
+  "dateModified": null,
+  "id": "0c9eb32ec8e344ccad803d5ebee5f377"
+ },
+ "UA-2026-11-13-011180-a": {
+  "tenderID": "UA-2026-11-13-011180-a",
+  "found_by": [
+   "cpv"
+  ],
+  "buyer": "Головне управління Національної поліції в Сумській області",
+  "buyer_edrpou": null,
+  "kind": null,
+  "dateModified": null,
+  "id": "a8ac93599b8c492eb558e394ff6a92a1"
+ },
+ "UA-2026-11-13-008629-a": {
+  "tenderID": "UA-2026-11-13-008629-a",
+  "found_by": [
+   "cpv"
+  ],
+  "buyer": "4 ДЕРЖАВНИЙ ПОЖЕЖНО-РЯТУВАЛЬНИЙ ЗАГІН ГОЛОВНОГО  УПРАВЛІННЯ ДЕРЖАВНОЇ СЛУЖБИ УКРАЇНИ З НАДЗВИЧАЙНИХ СИТУАЦІЙ  В ІВАНО-ФРАНКІВСЬКІЙ ОБЛАСТІ",
+  "buyer_edrpou": null,
+  "kind": null,
+  "dateModified": null,
+  "id": "6f45b7e6d6494c799cdc69a3f78b0fd5"
+ },
+ "UA-2026-11-13-006996-a": {
+  "tenderID": "UA-2026-11-13-006996-a",
+  "found_by": [
+   "cpv"
+  ],
+  "buyer": "Головне управління Національної поліції в Хмельницькій області",
+  "buyer_edrpou": null,
+  "kind": null,
+  "dateModified": null,
+  "id": "8120f42e9ae84312b05b32c8d2a746de"
+ },
+ "UA-2026-11-13-006212-a": {
+  "tenderID": "UA-2026-11-13-006212-a",
+  "found_by": [
+   "cpv"
+  ],
+  "buyer": "Головне управління Національної поліції в Хмельницькій області",
+  "buyer_edrpou": null,
+  "kind": null,
+  "dateModified": null,
+  "id": "ab30606e7c9e4846b85bd128a0c01363"
+ },
+ "UA-2026-11-13-006045-a": {
+  "tenderID": "UA-2026-11-13-006045-a",
+  "found_by": [
+   "cpv"
+  ],
+  "buyer": "військова частина Т0120",
+  "buyer_edrpou": null,
+  "kind": null,
+  "dateModified": null,
+  "id": "e8d1fa9df79640f3bd6ec09c3d0703cc"
+ },
+ "UA-2026-11-13-006031-a": {
+  "tenderID": "UA-2026-11-13-006031-a",
+  "found_by": [
+   "cpv"
+  ],
+  "buyer": "військова частина Т0120",
+  "buyer_edrpou": null,
+  "kind": null,
+  "dateModified": null,
+  "id": "7775c74bf5944b98b8a45cce807436b9"
+ },
+ "UA-2026-11-13-005926-a": {
+  "tenderID": "UA-2026-11-13-005926-a",
+  "found_by": [
+   "cpv"
+  ],
+  "buyer": "Управління Служби безпеки України в Миколаївській області",
+  "buyer_edrpou": null,
+  "kind": null,
+  "dateModified": null,
+  "id": "4bef9fdb8ff346f3a44b59c3e5e8dd21"
+ },
+ "UA-2026-11-13-005587-a": {
+  "tenderID": "UA-2026-11-13-005587-a",
+  "found_by": [
+   "cpv"
+  ],
+  "buyer": "Головне управління Національної поліції в Хмельницькій області",
+  "buyer_edrpou": null,
+  "kind": null,
+  "dateModified": null,
+  "id": "be5ccd84fde34a2dafae8f410c68029b"
+ },
+ "UA-2026-11-13-004005-a": {
+  "tenderID": "UA-2026-11-13-004005-a",
+  "found_by": [
+   "cpv"
+  ],
+  "buyer": "Головне управління Національної поліції в Хмельницькій області",
+  "buyer_edrpou": null,
+  "kind": null,
+  "dateModified": null,
+  "id": "61a0d29e5a4543c3943684ebcf63016e"
+ },
+ "UA-2026-11-13-003672-a": {
+  "tenderID": "UA-2026-11-13-003672-a",
+  "found_by": [
+   "cpv"
+  ],
+  "buyer": "Головне управління Національної поліції в Хмельницькій області",
+  "buyer_edrpou": null,
+  "kind": null,
+  "dateModified": null,
+  "id": "ba67c23841e640a5b547634b04de34b7"
+ },
+ "UA-2026-11-13-003137-a": {
+  "tenderID": "UA-2026-11-13-003137-a",
+  "found_by": [
+   "cpv"
+  ],
+  "buyer": "ГОЛОВНИЙ ЦЕНТР КАПІТАЛЬНОГО БУДІВНИЦТВА, РЕКОНСТРУКЦІЇ ТА ЗАКУПІВЕЛЬ ДЕРЖАВНОЇ ПРИКОРДОННОЇ СЛУЖБИ УКРАЇНИ",
+  "buyer_edrpou": null,
+  "kind": null,
+  "dateModified": null,
+  "id": "e216dbd811614cbd86eeb017230f00be"
+ },
+ "UA-2026-11-13-002702-a": {
+  "tenderID": "UA-2026-11-13-002702-a",
+  "found_by": [
+   "cpv"
+  ],
+  "buyer": "ГОЛОВНИЙ ЦЕНТР КАПІТАЛЬНОГО БУДІВНИЦТВА, РЕКОНСТРУКЦІЇ ТА ЗАКУПІВЕЛЬ ДЕРЖАВНОЇ ПРИКОРДОННОЇ СЛУЖБИ УКРАЇНИ",
+  "buyer_edrpou": null,
+  "kind": null,
+  "dateModified": null,
+  "id": "963720b0b5124c7493d6b7dce91979e6"
+ },
+ "UA-2026-11-13-001050-a": {
+  "tenderID": "UA-2026-11-13-001050-a",
+  "found_by": [
+   "cpv"
+  ],
+  "buyer": "Військова частина Т0170",
+  "buyer_edrpou": null,
+  "kind": null,
+  "dateModified": null,
+  "id": "81e49f1dfcc14d9585fe247c861e2b11"
+ },
+ "UA-2026-11-13-000804-a": {
+  "tenderID": "UA-2026-11-13-000804-a",
+  "found_by": [
+   "cpv"
+  ],
+  "buyer": "Військова частина Т0170",
+  "buyer_edrpou": null,
+  "kind": null,
+  "dateModified": null,
+  "id": "dd20459f074347d09594146b07d1c21d"
+ },
+ "UA-2026-11-13-000526-a": {
+  "tenderID": "UA-2026-11-13-000526-a",
+  "found_by": [
+   "cpv"
+  ],
+  "buyer": "ВІЙСЬКОВА ЧАСТИНА 3057 НАЦІОНАЛЬНОЇ ГВАРДІЇ УКРАЇНИ",
+  "buyer_edrpou": null,
+  "kind": null,
+  "dateModified": null,
+  "id": "e1cef95378c7489b9c18d7f3299e8c1d"
+ },
+ "UA-2026-11-12-001300-a": {
+  "tenderID": "UA-2026-11-12-001300-a",
+  "found_by": [
+   "text:пальне"
+  ],
+  "buyer": "Військова частина А4167",
+  "buyer_edrpou": null,
+  "kind": null,
+  "dateModified": null,
+  "id": "aed6f7d38233470da49f0b53d7ba08ae"
  }
 }

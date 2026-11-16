@@ -1329,5 +1329,223 @@
   "truncated": [],
   "seen": 85604,
   "kept": 5145
+ },
+ {
+  "run": "2026-11-16T05:05:59+00:00",
+  "windows": [
+   {
+    "query": "cpv",
+    "start": "2026-09-01",
+    "end": "2026-09-04",
+    "total": 822,
+    "fetched": 822
+   },
+   {
+    "query": "cpv",
+    "start": "2026-09-05",
+    "end": "2026-09-08",
+    "total": 485,
+    "fetched": 485
+   },
+   {
+    "query": "cpv",
+    "start": "2026-09-09",
+    "end": "2026-09-12",
+    "total": 650,
+    "fetched": 650
+   },
+   {
+    "query": "cpv",
+    "start": "2026-09-13",
+    "end": "2026-09-15",
+    "total": 614,
+    "fetched": 614
+   },
+   {
+    "query": "cpv",
+    "start": "2026-09-16",
+    "end": "2026-09-19",
+    "total": 802,
+    "fetched": 802
+   },
+   {
+    "query": "cpv",
+    "start": "2026-09-20",
+    "end": "2026-09-23",
+    "total": 903,
+    "fetched": 903
+   },
+   {
+    "query": "cpv",
+    "start": "2026-09-24",
+    "end": "2026-09-27",
+    "total": 461,
+    "fetched": 461
+   },
+   {
+    "query": "cpv",
+    "start": "2026-09-28",
+    "end": "2026-09-30",
+    "total": 705,
+    "fetched": 705
+   },
+   {
+    "query": "text:пальне",
+    "start": "2026-09-01",
+    "end": "2026-09-30",
+    "total": 121,
+    "fetched": 121
+   },
+   {
+    "query": "text:талони на пальне",
+    "start": "2026-09-01",
+    "end": "2026-09-30",
+    "total": 39,
+    "fetched": 39
+   },
+   {
+    "query": "text:скретч-картки",
+    "start": "2026-09-01",
+    "end": "2026-09-30",
+    "total": 48,
+    "fetched": 48
+   },
+   {
+    "query": "cpv",
+    "start": "2026-10-01",
+    "end": "2026-10-04",
+    "total": 411,
+    "fetched": 411
+   },
+   {
+    "query": "cpv",
+    "start": "2026-10-05",
+    "end": "2026-10-08",
+    "total": 997,
+    "fetched": 997
+   },
+   {
+    "query": "cpv",
+    "start": "2026-10-09",
+    "end": "2026-10-12",
+    "total": 501,
+    "fetched": 501
+   },
+   {
+    "query": "cpv",
+    "start": "2026-10-13",
+    "end": "2026-10-16",
+    "total": 964,
+    "fetched": 964
+   },
+   {
+    "query": "cpv",
+    "start": "2026-10-17",
+    "end": "2026-10-20",
+    "total": 655,
+    "fetched": 655
+   },
+   {
+    "query": "cpv",
+    "start": "2026-10-21",
+    "end": "2026-10-24",
+    "total": 871,
+    "fetched": 871
+   },
+   {
+    "query": "cpv",
+    "start": "2026-10-25",
+    "end": "2026-10-28",
+    "total": 901,
+    "fetched": 901
+   },
+   {
+    "query": "cpv",
+    "start": "2026-10-29",
+    "end": "2026-10-31",
+    "total": 466,
+    "fetched": 466
+   },
+   {
+    "query": "text:пальне",
+    "start": "2026-10-01",
+    "end": "2026-10-31",
+    "total": 114,
+    "fetched": 114
+   },
+   {
+    "query": "text:талони на пальне",
+    "start": "2026-10-01",
+    "end": "2026-10-31",
+    "total": 31,
+    "fetched": 31
+   },
+   {
+    "query": "text:скретч-картки",
+    "start": "2026-10-01",
+    "end": "2026-10-31",
+    "total": 69,
+    "fetched": 69
+   },
+   {
+    "query": "cpv",
+    "start": "2026-11-01",
+    "end": "2026-11-04",
+    "total": 953,
+    "fetched": 953
+   },
+   {
+    "query": "cpv",
+    "start": "2026-11-05",
+    "end": "2026-11-08",
+    "total": 611,
+    "fetched": 611
+   },
+   {
+    "query": "cpv",
+    "start": "2026-11-09",
+    "end": "2026-11-10",
+    "total": 625,
+    "fetched": 625
+   },
+   {
+    "query": "cpv",
+    "start": "2026-11-11",
+    "end": "2026-11-12",
+    "total": 516,
+    "fetched": 516
+   },
+   {
+    "query": "cpv",
+    "start": "2026-11-13",
+    "end": "2026-11-16",
+    "total": 223,
+    "fetched": 223
+   },
+   {
+    "query": "text:пальне",
+    "start": "2026-11-01",
+    "end": "2026-11-16",
+    "total": 71,
+    "fetched": 71
+   },
+   {
+    "query": "text:талони на пальне",
+    "start": "2026-11-01",
+    "end": "2026-11-16",
+    "total": 31,
+    "fetched": 31
+   },
+   {
+    "query": "text:скретч-картки",
+    "start": "2026-11-01",
+    "end": "2026-11-16",
+    "total": 30,
+    "fetched": 30
+   }
+  ],
+  "truncated": [],
+  "seen": 14690,
+  "kept": 878
  }
 ]
