@@ -1,5 +1,5 @@
 {
- "built": "2026-11-16T05:09:55+00:00",
+ "built": "2026-11-23T05:08:23+00:00",
  "date_from": "2025-01-01",
  "active_from": "2026-01-01",
  "large_contract_uah": 10000000,
@@ -15,15 +15,15 @@
   "special": "СБУ, УДО, Держспецзв'язку, Держспецтрансслужба",
   "defense_other": "Інші оборонні замовники (позначка kind = defense)"
  },
- "candidates": 4785,
- "tenders": 4442,
- "contracts": 3906,
+ "candidates": 4903,
+ "tenders": 4559,
+ "contracts": 3960,
  "rejected": {
   "замовник поза групами": 105,
-  "немає позицій пального": 238
+  "немає позицій пального": 239
  },
  "search_log": {
-  "run": "2026-11-16T05:05:59+00:00",
+  "run": "2026-11-23T04:44:21+00:00",
   "windows": [
    {
     "query": "cpv",
@@ -182,62 +182,69 @@
    {
     "query": "cpv",
     "start": "2026-11-01",
-    "end": "2026-11-04",
-    "total": 953,
-    "fetched": 953
+    "end": "2026-11-03",
+    "total": 628,
+    "fetched": 628
    },
    {
     "query": "cpv",
-    "start": "2026-11-05",
-    "end": "2026-11-08",
-    "total": 611,
-    "fetched": 611
+    "start": "2026-11-04",
+    "end": "2026-11-06",
+    "total": 912,
+    "fetched": 912
    },
    {
     "query": "cpv",
-    "start": "2026-11-09",
-    "end": "2026-11-10",
-    "total": 625,
-    "fetched": 625
+    "start": "2026-11-07",
+    "end": "2026-11-09",
+    "total": 344,
+    "fetched": 344
    },
    {
     "query": "cpv",
-    "start": "2026-11-11",
+    "start": "2026-11-10",
     "end": "2026-11-12",
-    "total": 516,
-    "fetched": 516
+    "total": 821,
+    "fetched": 821
    },
    {
     "query": "cpv",
     "start": "2026-11-13",
-    "end": "2026-11-16",
-    "total": 223,
-    "fetched": 223
+    "end": "2026-11-18",
+    "total": 989,
+    "fetched": 989
+   },
+   {
+    "query": "cpv",
+    "start": "2026-11-19",
+    "end": "2026-11-23",
+    "total": 428,
+    "fetched": 428
    },
    {
     "query": "text:пальне",
     "start": "2026-11-01",
-    "end": "2026-11-16",
-    "total": 71,
-    "fetched": 71
+    "end": "2026-11-23",
+    "total": 98,
+    "fetched": 98
    },
    {
     "query": "text:талони на пальне",
     "start": "2026-11-01",
-    "end": "2026-11-16",
-    "total": 31,
-    "fetched": 31
+    "end": "2026-11-23",
+    "total": 41,
+    "fetched": 41
    },
    {
     "query": "text:скретч-картки",
     "start": "2026-11-01",
-    "end": "2026-11-16",
-    "total": 30,
-    "fetched": 30
+    "end": "2026-11-23",
+    "total": 42,
+    "fetched": 42
    }
   ],
   "truncated": [],
-  "seen": 14690,
-  "kept": 878
+  "seen": 15933,
+  "kept": 1002
  }
 }
